@@ -1,0 +1,6 @@
+{
+  "name": "SENAI-SP Estoque | Sistema de Gestão de Inventário",
+  "description": "Sistema integrado de controle de estoques e almoxarifado do SENAI-SP com cadastro hierárquico, movimentações, localizações, relatórios e persistência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
